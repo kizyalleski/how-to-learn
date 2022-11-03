@@ -173,10 +173,31 @@
   margin-top: 20px;
 }
 
+.feynman {
+  background-image: url(../images/feynman.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+}
+
+.feynman__title {
+  width: 648px;
+  text-align: center;
+  margin: 0 auto 70px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+}
+
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
+/* .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
-}
+} */
