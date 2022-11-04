@@ -1,9 +1,14 @@
+/* Page */
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
+
+
+/* Header */
 
 .header {
   height: 100vh;
@@ -72,6 +77,9 @@
   right: 0;
 }
 
+
+/* Description */
+
 .description {
   margin-bottom: 100px;
   color: #1f1f1f;
@@ -115,6 +123,9 @@
 .two-columns__snap-accent {
   font-weight: bold;
 }
+
+
+/* Digits */
 
 .digits {
   margin-bottom: 100px;
@@ -172,6 +183,9 @@
   margin-top: 20px;
 }
 
+
+/* Feynman */
+
 .feynman {
   height: 890px;
   color: #000000;
@@ -208,7 +222,11 @@
   font-size: 36px;
   font-weight: normal;
   color: #2f80ed;
+  text-decoration: none;
 }
+
+
+/* Kaufman */
 
 .kaufman {
   position: relative;
@@ -258,6 +276,9 @@
   z-index: 2;
 }
 
+
+/* Footer */
+
 .footer {
   padding-top: 60px;
   padding-bottom: 40px;
@@ -286,7 +307,7 @@
 }
 
 .footer__author {
-  margin-top: 18px 0;
+  margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
