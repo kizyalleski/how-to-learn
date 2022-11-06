@@ -250,7 +250,7 @@
   right: -210px;
   background-image: url(../images/kaufman-triangle.svg);
   background-size: contain;
-  z-index: o;
+  z-index: 0;
 }
 
 .section-title_theme_dark {
@@ -336,7 +336,6 @@
 }
 
 .footer__column-links {
-  margin: 0 0 16px;
   display: flex;
   flex-direction: column;
   padding-left: 0;
@@ -351,6 +350,7 @@
 
 .footer__column-link {
   line-height: 30px;
+  margin-bottom: 16px;
   font-size: 18px;
   font-weight: normal;
   color: #f2f2f2;
