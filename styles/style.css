@@ -200,7 +200,7 @@
   font-weight: normal;
 }
 
-.table__text:nth-child(3) {
+.table__text:not(:first-child) {
   margin-top: 20px;
 }
 
@@ -231,7 +231,7 @@
 /* Feynman */
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   color: #000000;
   background-color: #f2f2f2;
   background-image: url(../images/feynman.png);
@@ -345,6 +345,7 @@
   flex-direction: column;
   padding-left: 0;
   list-style-type: none;
+  margin-bottom: 16px;
 }
 
 .footer__social-icon {
@@ -355,7 +356,6 @@
 
 .footer__column-link {
   line-height: 30px;
-  margin-bottom: 16px;
   font-size: 18px;
   font-weight: normal;
   color: #f2f2f2;
