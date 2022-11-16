@@ -230,7 +230,7 @@
 
 /* Feynman */
 
-.feynman {
+/* .feynman {
   min-height: 890px;
   color: #000000;
   background-color: #f2f2f2;
@@ -240,26 +240,26 @@
   position: relative;
   padding-top: 100px;
   box-sizing: border-box;
-}
+} */
 
-.feynman__title {
+/* .feynman__title {
   width: 648px;
   text-align: center;
   margin: 0 auto 70px;
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-}
+} */
 
-.feynman__subtitle {
+/* .feynman__subtitle {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
   text-align: center;
   margin: 0;
-}
+} */
 
-.feynman__link {
+/* .feynman__link {
   position: absolute;
   top: 50%;
   right: 48px;
@@ -268,7 +268,7 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
-}
+} */
 
 
 /* Kaufman */
