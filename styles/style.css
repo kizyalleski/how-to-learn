@@ -131,46 +131,46 @@
 
 /* Digits */
 
-.digits {
+/* .digits {
   margin-bottom: 100px;
   color: #000000;
-}
+} */
 
-.section-title {
+/* .section-title {
   width: 60%;
   margin: 0 auto 20px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-  position: relative; /* для треугольника в блоке Kaufman */
-  z-index: 0; /* для треугольника в блоке Kaufman */
-}
+  position: relative;
+  z-index: 0;
+} */
 
-.section-subtitle {
+/* .section-subtitle {
   width: 60%;
   margin: 0 auto;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
-  position: relative; /* для треугольника в блоке Kaufman */
-  z-index: 0; /* для треугольника в блоке Kaufman */
-}
+  position: relative;
+  z-index: 0;
+} */
 
-.section-title_theme_dark {
+/* .section-title_theme_dark {
   padding-top: 90px;
   z-index: 2;
   color: #f2f2f2;
-}
+} */
 
-.section-subtitle_theme_dark {
+/* .section-subtitle_theme_dark {
   margin-bottom: 0;
   z-index: 2;
   color: #f2f2f2;
-}
+} */
 
-.table {
+/* .table {
   width: 1100px;
   margin: 0 auto;
   display: flex;
@@ -178,54 +178,54 @@
   justify-content: space-between;
   padding-left: 0;
   list-style-type: none;
-}
+} */
 
-.table__cell {
+/* .table__cell {
   width: 250px;
   margin-top: 60px;
-}
+} */
 
-.table__heading {
+/* .table__heading {
   margin-top: 0;
   margin-bottom: 20px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-}
+} */
 
-.table__text {
+/* .table__text {
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-}
+} */
 
-.table__text:not(:first-child) {
+/* .table__text:not(:first-child) {
   margin-top: 20px;
-}
+} */
 
-.table_theme_dark {
+/* .table_theme_dark {
   margin-bottom: 90px;
   position: relative;
   z-index: 2;
   color: #f2f2f2;
-}
+} */
 
-.table__cell_theme_dark {
+/* .table__cell_theme_dark {
   width: 200px;
   margin-bottom: 0;
   margin-top: 80px;
-}
+} */
 
-.table__heading_theme_dark {
-  position: relative; /* чтобы применить z-index и положить текст поверх треугольника */
-  z-index: 2;
-}
-
-.table__text_theme_dark {
+/* .table__heading_theme_dark {
   position: relative;
   z-index: 2;
-}
+} */
+
+/* .table__text_theme_dark {
+  position: relative;
+  z-index: 2;
+} */
 
 
 /* Feynman */
