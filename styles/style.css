@@ -273,13 +273,13 @@
 
 /* Kaufman */
 
-.kaufman {
+/* .kaufman {
   position: relative;
   background-color: #1f1f1f;
-  overflow: hidden; /* треугольник не будет выходить за границы блока */
-}
+  overflow: hidden;
+} */
 
-.kaufman__triangle {
+/* .kaufman__triangle {
   width: 877px;
   height: 877px;
   position: absolute;
@@ -288,7 +288,7 @@
   background-image: url(../images/kaufman-triangle.svg);
   background-size: contain;
   z-index: 0;
-}
+} */
 
 
 /* Footer */
