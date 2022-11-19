@@ -19,6 +19,15 @@
 /* блок rotation */
 @import url(../blocks/rotation/rotation.css);
 
+/* БЛОК TECHNIQUES */
+@import url(../blocks/techniques/techniques.css);
+/* блок cards */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+
 /* БЛОК DESCRIPTION */
 @import url(../blocks/description/description.css);
 /* блок two-columns */
