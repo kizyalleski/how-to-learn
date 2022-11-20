@@ -19,6 +19,15 @@
 /* блок rotation */
 @import url(../blocks/rotation/rotation.css);
 
+/* БЛОК DESCRIPTION */
+@import url(../blocks/description/description.css);
+/* блок two-columns */
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__span__accent/two-columns__span-accent.css);
+
 /* БЛОК TECHNIQUES */
 @import url(../blocks/techniques/techniques.css);
 /* блок cards */
@@ -28,14 +37,13 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
-/* БЛОК DESCRIPTION */
-@import url(../blocks/description/description.css);
-/* блок two-columns */
-@import url(../blocks/two-columns/two-columns.css);
-@import url(../blocks/two-columns/__brief/two-columns__brief.css);
-@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
-@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__span__accent/two-columns__span-accent.css);
+/* БЛОК VIDEO */
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+
+/* БЛОК OAKLEY */
+@import url(../blocks/oakley/oakley.css);
 
 /* БЛОК DIGITS */
 @import url(../blocks/digits/digits.css);
