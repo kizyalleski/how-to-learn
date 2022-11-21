@@ -91,6 +91,12 @@
 /* модификатор table__text_theme_dark */
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
+/* БЛОК RESOURCES */
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+
 /* БЛОК FOOTER */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
