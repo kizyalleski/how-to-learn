@@ -1,2 +1,2 @@
 # How to learn
-Web page with simple animation and youtube video iframes
+Simple web page is written in html5 and css using animation, iframes, YouTube API etc.

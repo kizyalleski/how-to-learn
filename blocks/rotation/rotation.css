@@ -7,15 +7,7 @@
     }
 }
 
-.header__square-pic {
-  animation-name: rotation;
-  animation-duration: 20s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-  animation-direction: normal;
-}
-
-.kaufman__triangle {
+.rotation {
   animation-name: rotation;
   animation-duration: 20s;
   animation-timing-function: linear;

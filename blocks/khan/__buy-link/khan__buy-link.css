@@ -3,7 +3,7 @@
   font-size: 30px;
   font-weight: normal;
   text-decoration: none;
-  height: 40px;
+  color: #2f80ed;
   margin: 0;
   opacity: 1;
   transition: opacity 0.25s linear; /* плавность перехода */
