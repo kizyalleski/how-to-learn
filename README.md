@@ -1,2 +1,3 @@
 # How to learn
-Simple web page is written in html5 and css using animation, iframes, YouTube API etc.
+Web page is written in html5 and css.
+Techniques used: Nested BEM, Animation, iframes, YouTube API.
