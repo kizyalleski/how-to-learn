@@ -1,5 +1,5 @@
 .header {
-  height: 100vh;
+  height: 99vh;
   min-height: 600px;
   max-height: 756px;
   margin-bottom: 100px;
@@ -9,3 +9,4 @@
   background-color: #f2f2f2;
   overflow: hidden;
 }
+
