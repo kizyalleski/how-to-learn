@@ -3,3 +3,9 @@
   position: relative;
   z-index: 2;
 }
+
+@media (max-width: 400px) {
+  .logo_place_header {
+    padding-left: 25px;
+  }
+}
