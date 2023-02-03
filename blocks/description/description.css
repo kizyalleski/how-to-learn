@@ -4,3 +4,9 @@
   display: flex;
   justify-content: center;
 }
+
+@media (max-width: 800px) {
+  .description {
+    margin-top: 80px;
+  }
+}

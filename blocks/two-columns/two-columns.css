@@ -4,3 +4,25 @@
   width: 80%;
   margin: 0;
 }
+
+@media (max-width: 1000px) {
+  .two-columns {
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 800px) {
+  .two-columns {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  .two-columns {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
