@@ -1,8 +1,7 @@
  .cards__item {
-  margin-right: 100px;
-  width: 240px;
-}
-
-  .cards__item:nth-of-type(3n+3) {
-    margin: 0;
-  }
+  border: 1px darkcyan solid;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+ }
