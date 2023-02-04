@@ -1,5 +1,4 @@
  .cards__item {
-  border: 1px darkcyan solid;
   display: flex;
   flex-direction: column;
   gap: 16px;
