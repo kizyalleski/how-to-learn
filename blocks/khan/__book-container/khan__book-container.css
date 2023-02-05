@@ -3,3 +3,9 @@
   display: flex;
   align-items: flex-start;
 }
+
+@media (max-width: 600px) {
+  .khan__book-container {
+    margin-top: 25px;
+  }
+}
