@@ -1,5 +1,12 @@
 .kaufman {
   position: relative;
+  padding: 0 64px 100px;
   background-color: #1f1f1f;
-  overflow: hidden; /* треугольник не будет выходить за границы блока */
+  overflow: hidden;
+}
+
+@media (max-width: 800px) {
+  .kaufman {
+    padding-bottom: 80px;
+  }
 }
