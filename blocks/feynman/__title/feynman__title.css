@@ -1,5 +1,5 @@
 .feynman__title {
-  max-width: 648px;
+  width: 65%;
   text-align: center;
   line-height: 1.15;
   font-size: 120px;
@@ -15,10 +15,23 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
   .feynman__title {
     line-height: 50px;
     font-size: 50px;
-    max-width: 350px;
+  }
+}
+
+@media (max-width: 600px) {
+  .feynman__title {
+    padding-bottom: 50px;
+    align-self: center;
+    width: 70%;
+  }
+}
+
+@media (max-width: 500px) {
+  .feynman__title {
+    width: 85%;
   }
 }
