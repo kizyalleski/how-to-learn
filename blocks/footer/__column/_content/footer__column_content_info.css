@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  .footer__column_content_info {
+    grid-column-start: 2;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer__column_content_info {
+    grid-column-start: 1;
+  }
+}
