@@ -4,7 +4,3 @@
   font-size: 18px;
   font-weight: normal;
 }
-
-.table__text:not(:first-child) {
-  margin-top: 20px;
-}
