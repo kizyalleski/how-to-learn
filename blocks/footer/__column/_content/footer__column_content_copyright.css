@@ -1,18 +1,5 @@
 .footer__column_content_copyright {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-@media (max-width: 600px) {
-  .footer__column_content_copyright {
-    grid-row-start: 1;
-    grid-row-end: 3;
-  }
-}
-
-@media (max-width: 500px) {
-  .footer__column_content_copyright {
-    grid-row-start: 3;
-  }
+  align-self: self-end;
+  grid-row-start: 2;
+  grid-column: 1/3;
 }
