@@ -23,7 +23,7 @@
 
 @media (max-width: 800px) {
   .header__subtitle {
-    max-width: 300px;
+    max-width: 250px;
     line-height: 20px;
     font-size: 16px;
   }
@@ -31,14 +31,14 @@
 
 @media (max-width: 600px) {
   .header__subtitle {
-    max-width: 200px;
     line-height: 16px;
     font-size: 14px;
     padding-top: 50px;
+    max-width: 200px;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .header__subtitle {
     padding-left: 25px;
   }

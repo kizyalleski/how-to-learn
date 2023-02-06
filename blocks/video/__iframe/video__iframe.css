@@ -33,7 +33,7 @@
 
 @media (max-width: 450px) {
   .video__iframe {
-    width: 240px;
-    height: 150px;
+    width: 80%;
+    height: 200px;
   }
 }
